@@ -1,3 +1,3 @@
 # Tupper
-Tupper's self referentil formula
+Tupper's self referentil formula. <br>
 An implementation of Tupper's Self Referential Formula in python.
